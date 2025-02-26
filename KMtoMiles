@@ -1,0 +1,7 @@
+print("Kilometres into Miles Converter")
+
+num1 = int(input("Enter distance in KMs : "))
+
+num2 = (num1/1.6)
+
+print("Distance in Miles : ", num2)
